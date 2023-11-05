@@ -14,3 +14,9 @@ This Python script processes all the .txt files in the same directory as the scr
     Writes the unique words back to the output file while preserving their order.
 
 The script then iterates through all the files in the directory where the script is located and checks if they have a .txt extension. For each .txt file found, it calls the clean_text_file function to clean the file and save the cleaned version with a "cleaned_" prefix in the same directory. Finally, it prints a message indicating that the text has been cleaned and saved to the corresponding output file.
+
+how i used it:
+1 navigate to folder with the txt files.
+2 enter cmd in adress bar.
+3 write "python clean.py"
+profit?
