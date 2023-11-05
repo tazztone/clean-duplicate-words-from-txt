@@ -2,6 +2,7 @@
 This Python script cleans duplicate words from all the .txt files in the same directory as the script itself.
 
 created with chatgpt 3.5
+
 This Python script processes all the .txt files in the same directory as the script itself. It does the following:
 
     Uses the os module to determine the directory where the script is located (or the current working directory if it's running in an interactive environment).
